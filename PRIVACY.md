@@ -1,6 +1,6 @@
 # ClosetDay Privacy Policy
 
-Effective September 28, 2026.
+Effective October 31, 2026.
 
 Publisher: Dmytro Polokhalo. Contact: [dmytro@nycintel.app](mailto:dmytro@nycintel.app).
 
@@ -25,6 +25,8 @@ On iPhone and iPad, city searches use Apple MapKit and Apple WeatherKit receives
 On iPhone and iPad, Apple handles purchases, restoration, payment details, and App Store ratings. ClosetDay checks Apple's signed purchase records on the device to determine whether the one-time unlock is owned. The Android closed test does not offer purchases. ClosetDay does not receive your payment card details. Review-request milestones are stored locally to avoid repeatedly asking for a rating.
 
 ## Support
+
+In-app bug reports use Formspree to receive the message you explicitly enter, with a static ClosetDay support subject. This form does not attach photos, wardrobe records, device details, logs, or your email address. Formspree processes the submission and associated network information, including the submitting IP address, to deliver reports and protect the service against spam and abuse under its [privacy policy](https://formspree.io/legal/privacy-policy/). Reports are delivered to the publisher’s existing shared support inbox. The app displays whether a submission was accepted or could not be confirmed.
 
 If you email support, we receive the email address, message, and any attachments you choose to provide. We use that information to answer your request and investigate the issue. Do not send sensitive information unnecessarily. You may request deletion of support correspondence by emailing us, subject to any records we must retain by law. Public GitHub issues are visible to other people; use email for private questions.
 
